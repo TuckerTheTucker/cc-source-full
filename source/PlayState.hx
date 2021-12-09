@@ -772,6 +772,7 @@ class PlayState extends MusicBeatState
 		goods = 0;
 		sicks = 0;
 		accuracy = 0.00;
+		songScore = 0;
 		
 		trace('starting');
 
