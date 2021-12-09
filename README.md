@@ -50,5 +50,5 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 
-###Cavity Crush Creator
+### Cavity Crush Creator
 - [TuckerTheTucker](https://twitter.com/TuckerTheTucker) - Creator...all of it lmao
