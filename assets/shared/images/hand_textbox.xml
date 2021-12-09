@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hand_textbox.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="handconfirm0000" x="10" y="10" width="44" height="30" frameX="-4" frameY="-10" frameWidth="52" frameHeight="40"/>
+	<SubTexture name="handconfirm0001" x="74" y="10" width="48" height="34" frameX="-2" frameY="-3" frameWidth="52" frameHeight="40"/>
+	<SubTexture name="handconfirm0002" x="142" y="10" width="52" height="38" frameX="0" frameY="0" frameWidth="52" frameHeight="40"/>
+	<SubTexture name="handconfirm0003" x="74" y="10" width="48" height="34" frameX="-2" frameY="-5" frameWidth="52" frameHeight="40"/>
+	<SubTexture name="handpointing0000" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0001" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0002" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0003" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0004" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0005" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0006" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0007" x="10" y="68" width="33" height="18" frameX="0" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0008" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0009" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0010" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0011" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0012" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0013" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0014" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0015" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0016" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0017" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0018" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+	<SubTexture name="handpointing0019" x="10" y="68" width="33" height="18" frameX="-4" frameY="0" frameWidth="36" frameHeight="18"/>
+</TextureAtlas>

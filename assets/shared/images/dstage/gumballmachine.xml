@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gumballmachine.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ballbop0000" x="10" y="10" width="241" height="382" frameX="0" frameY="-3" frameWidth="241" frameHeight="385"/>
+	<SubTexture name="ballbop0001" x="10" y="10" width="241" height="382" frameX="0" frameY="-3" frameWidth="241" frameHeight="385"/>
+	<SubTexture name="ballbop0002" x="271" y="10" width="239" height="383" frameX="-1" frameY="-2" frameWidth="241" frameHeight="385"/>
+	<SubTexture name="ballbop0003" x="271" y="10" width="239" height="383" frameX="-1" frameY="-2" frameWidth="241" frameHeight="385"/>
+	<SubTexture name="ballbop0004" x="530" y="10" width="237" height="385" frameX="-2" frameY="0" frameWidth="241" frameHeight="385"/>
+	<SubTexture name="ballbop0005" x="530" y="10" width="237" height="385" frameX="-2" frameY="0" frameWidth="241" frameHeight="385"/>
+</TextureAtlas>

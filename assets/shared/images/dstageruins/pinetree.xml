@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="pinetree.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="treebop0000" x="10" y="10" width="114" height="304" frameX="0" frameY="-6" frameWidth="114" frameHeight="310"/>
+	<SubTexture name="treebop0001" x="10" y="10" width="114" height="304" frameX="0" frameY="-6" frameWidth="114" frameHeight="310"/>
+	<SubTexture name="treebop0002" x="144" y="10" width="112" height="307" frameX="-1" frameY="-3" frameWidth="114" frameHeight="310"/>
+	<SubTexture name="treebop0003" x="144" y="10" width="112" height="307" frameX="-1" frameY="-3" frameWidth="114" frameHeight="310"/>
+	<SubTexture name="treebop0004" x="276" y="10" width="108" height="310" frameX="-3" frameY="0" frameWidth="114" frameHeight="310"/>
+	<SubTexture name="treebop0005" x="276" y="10" width="108" height="310" frameX="-3" frameY="0" frameWidth="114" frameHeight="310"/>
+</TextureAtlas>

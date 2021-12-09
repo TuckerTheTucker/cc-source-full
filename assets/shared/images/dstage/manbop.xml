@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="manbop.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="table0000" x="10" y="10" width="747" height="471" frameX="0" frameY="-4" frameWidth="747" frameHeight="475"/>
+	<SubTexture name="table0001" x="10" y="10" width="747" height="471" frameX="0" frameY="-4" frameWidth="747" frameHeight="475"/>
+	<SubTexture name="table0002" x="10" y="501" width="747" height="473" frameX="0" frameY="-2" frameWidth="747" frameHeight="475"/>
+	<SubTexture name="table0003" x="10" y="501" width="747" height="473" frameX="0" frameY="-2" frameWidth="747" frameHeight="475"/>
+	<SubTexture name="table0004" x="10" y="994" width="747" height="475"/>
+	<SubTexture name="table0005" x="10" y="994" width="747" height="475"/>
+</TextureAtlas>
