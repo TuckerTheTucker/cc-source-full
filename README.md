@@ -14,7 +14,7 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 **REMEMBER**: **Cavity Crush** is a **mod** for Friday Night Funkin' and should be treated as a **modification**. This is not and probably will never be official, so don't get confused please.
 Oh and if you see any rumors saying pepper is real, those are lies. pepper is totally completely fictional. im totally not real, kid- i mean what?
 
-##Screenshots:
+## Screenshots:
 ![Screenshot 1](assets/preload/images/SS.png)
 
 ![Screenshot 2](assets/preload/images/SS2.png)
@@ -34,7 +34,9 @@ Oh and if you see any rumors saying pepper is real, those are lies. pepper is to
  - **Achievements**
 	 - There are 4 Achievements to Collect, there may be more in the future though.
  - **Story Mode Bops**
-	 - Boyfriend & Girlfriend Now Bop to the Music in the background, pretty sweet, right>
+	 - Boyfriend & Girlfriend Now Bop to the Music in the background, pretty sweet, right?
+ - **A bunch of Personality Loaded in**
+	 - a whole lot of love was put into this game (since this is my first mod im releasing lmao)
  - **Uhhhh...wait thats it? damnit! Well you get the Gist.**
 
 # Credits
