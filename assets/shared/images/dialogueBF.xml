@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="dialogueBF.png">
-	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
-	<!-- http://www.adobe.com/products/flash.html -->
-	<SubTexture name="bfIdle0000" x="10" y="10" width="411" height="405"/>
-	<SubTexture name="bfblank0000" x="441" y="10" width="383" height="400"/>
-	<SubTexture name="bfscared0000" x="844" y="10" width="416" height="402"/>
-	<SubTexture name="bfuhh0000" x="1280" y="10" width="408" height="400"/>
-	<SubTexture name="bfyeah0000" x="10" y="435" width="421" height="407"/>
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfIdle0000" x="0" y="0" width="411" height="405"/>
+	<SubTexture name="bfblank0000" x="0" y="405" width="383" height="400"/>
+	<SubTexture name="bfscared0000" x="0" y="805" width="416" height="402"/>
+	<SubTexture name="bfuhh0000" x="0" y="1207" width="407" height="399"/>
+	<SubTexture name="bfyeah0000" x="0" y="1606" width="421" height="407"/>
 </TextureAtlas>

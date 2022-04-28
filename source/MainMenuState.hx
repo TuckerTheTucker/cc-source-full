@@ -123,7 +123,7 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollow, null, 0.08);
 
-		var versionShit:FlxText = new FlxText(5, FlxG.height - 18, 0, "CC v1.0.0 - Made By TuckerTheTucker", 12);
+		var versionShit:FlxText = new FlxText(5, FlxG.height - 18, 0, "CC v1.1.0 - Made By TuckerTheTucker", 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
